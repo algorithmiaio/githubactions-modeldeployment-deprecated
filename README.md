@@ -1,5 +1,5 @@
 # [Deprecated] Algorithmia Github Action for Model Deployment
-For the most recent Github Action implementation for model deployment from a repository at Github to Algorithmia, please check out our repository at: https://github.com/algorithmiaio/modeldeployment 
+For the most recent Github Action implementation for model deployment from a repository at Github to Algorithmia, please check out our repository at: https://github.com/algorithmiaio/model-deployment 
 
 ## Table of Contents
 
